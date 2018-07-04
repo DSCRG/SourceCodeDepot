@@ -26,3 +26,9 @@ int main(){
   return 0;
 }
 ```
+
+##### 参考链接
+
+|链接|摘要|
+|---|--|
+|[setjmp/longjmp](https://blog.csdn.net/oktears/article/details/43232493) |setjmp和longjmp一般用于异常处理，在发生异常时跳出到标记点，C++中的try catch throw的实现就是在此基础之上的封装，与goto相同|
